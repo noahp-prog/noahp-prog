@@ -1,4 +1,4 @@
-# Hello, I'm Noah, an <a >IT Specialist
+# Hello, I'm Noah
 
 # Information Technology Projects:</h2>
 
