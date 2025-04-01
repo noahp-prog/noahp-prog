@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/noahp-prog/osticket-prereqs/tree/main)
   - [osTicket: Post-Installation Configuration](https://github.com/noahp-prog/osticket-post-install.git)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/noahp-prog/ticket-lifecycle.git)
+  - [osTicket: Ticket Lifecycle Example](https://github.com/noahp-prog/ticket-lifecycle.git)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs]()
   - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
