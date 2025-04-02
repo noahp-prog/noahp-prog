@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/noahp-prog/osticket-post-install.git)
   - [osTicket: Ticket Lifecycle Example](https://github.com/noahp-prog/ticket-lifecycle.git)
 - <b>Microsoft Azure</b>
-  - [Setting up On-premises Active Directory within Azure VMs]()
+  - [Setting up On-premises Active Directory within Azure VMs](https://github.com/noahp-prog/configure-active-directory.git)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
 
 # Connect with me:</h2>
