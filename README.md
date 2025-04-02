@@ -14,4 +14,4 @@
 
 [<img align="left" alt="Noah| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]:(https://www.linkedin.com/in/noah-peters-78700135a/)
+[linkedin]:<https://www.linkedin.com/in/noah-peters-78700135a/>
