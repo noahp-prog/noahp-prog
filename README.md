@@ -12,6 +12,6 @@
 
 # Connect with me:</h2>
 
-[<img align="left" alt="Noah| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Noah| LinkedIn" width="22px" src=https://github.com/user-attachments/assets/a1cd5786-9031-4055-a412-276de41cd54c/>][linkedin]
 
 [linkedin]:<https://www.linkedin.com/in/noah-peters-78700135a/>
