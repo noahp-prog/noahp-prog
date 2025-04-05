@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Example](https://github.com/noahp-prog/ticket-lifecycle.git)
 - <b>Microsoft Azure</b>
   - [Setting up On-premises Active Directory within Azure VMs](https://github.com/noahp-prog/configure-active-directory.git)
-  - [Deploying Changes using Group Policy within Azure VMs]()
+  - [Deploying GPOs using Group Policy within Azure VMs]()
 
 # Connect with me:</h2>
 
