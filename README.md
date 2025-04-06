@@ -1,4 +1,4 @@
-# Hi, I'm Noah, an IT Specialist!
+# Hi, I'm Noah! 🧙‍♂️
 
 # Information Technology Projects:</h2>
 
